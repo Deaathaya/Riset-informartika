@@ -2,8 +2,7 @@
 
 Tugas UTS
 Penulis: Dea Rajwa Zahra Athaya (NPM 23081010013)
-Program Studi Informatika, Fakultas Ilmu Komputer, UPN "Veteran" Jawa Timur
-Dosen pembimbing: Prof. Dr. Basuki Rahmat, S.Si., MT., ITS-AI dan Dr. Firza Prima Aditiawan, S.Kom., MTI
+
 
 ## Ringkasan
 
@@ -21,4 +20,4 @@ Repositori ini berisi dokumen riset kecil untuk pra-skripsi tentang sistem monit
 
 ## Catatan
 
-Mind map memakai sintaks Mermaid sehingga tampil otomatis di GitHub. Dataset asli dikumpulkan dari Laboratorium SCR dan akan ditambahkan ke folder `data/` setelah pengambilan data selesai.
+Mind map memakai sintaks Mermaid sehingga tampil otomatis di GitHub. Dataset asli dikumpulkan dari Laboratorium SCR dan akan ditambahkan ke folder `data/` setelah pengambilan data selesai. Untuk sementara ini data berisikan data dummy.
