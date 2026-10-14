@@ -1,0 +1,5 @@
+skenario,waktu_mulai,waktu_selesai,jumlah_sampel
+lonjakan_gas,2026-10-12 09:00:00,2026-10-12 09:07:30,16
+lonjakan_voc,2026-10-12 10:30:00,2026-10-12 10:39:30,20
+suhu_naik_bertahap,2026-10-12 12:00:00,2026-10-12 12:19:30,40
+multivariat,2026-10-12 14:20:00,2026-10-12 14:31:30,24
