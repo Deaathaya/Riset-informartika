@@ -86,7 +86,7 @@ data/
   README.md     # deskripsi dataset
 ```
 
-Data mentah belum ada di repo ini. Berkas CSV ditambahkan setelah pengambilan data selesai.
+Dataset saat ini hanya berisikan data dummy.
 
 ## 9. Etika dan Keselamatan
 
