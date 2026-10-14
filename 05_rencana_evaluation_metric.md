@@ -85,6 +85,3 @@ Metrik ini melengkapi metrik utama dan tidak mengubah batasan masalah di proposa
 
 Karena threshold berupa nilai maksimum, ia sensitif terhadap outlier pada data validasi. Sebagai pembanding, nilai threshold alternatif (misalnya persentil 99 dari RE validasi) dapat diuji, lalu hasil precision, recall, dan F1 dibandingkan.
 
-## 7. Catatan Konsistensi dengan Proposal
-
-Persamaan (2.5) di Bab II menyebut threshold diambil dari seluruh sequence data latih, sedangkan Subbab 3.4.7 menyebut data validasi. Dokumen ini memakai data validasi agar konsisten dengan Bab III.
