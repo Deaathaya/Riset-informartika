@@ -1,6 +1,6 @@
 # Research Mind Map
 
-Diagram di bawah memakai Mermaid, jadi tampil otomatis di GitHub.
+
 
 ```mermaid
 mindmap
